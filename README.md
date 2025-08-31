@@ -1,11 +1,15 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KilianKegel.kiliankegel)
 # Latest NEWS
-## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"  width="50" height="50">toroCVS (C-Validation-Suite) report ***math.h***
+## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50">toroCVS (C-Validation-Suite) report ***math.h***
 All **C90/ANSI C** functions of **math.h** compared against original **Microsoft C Library** implementation:<br>
 https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh
 
 
-## [*toro C Library*](https://github.com/KilianKegel/toro-C-Library) with [high precision, micro footprint hardware arithmetic](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI/tree/main/toroCLibrary/Library/math_h) 
+## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"  width="50" height="50">[*toro C Library*](https://github.com/KilianKegel/toro-C-Library) with [high precision, micro footprint hardware arithmetic](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI/tree/main/toroCLibrary/Library/math_h) 
+### 20250830, v0.9.5 Build 755
+* add [**errno.h**]((https://www.open-std.org/JTC1/SC22/WG14/www/docs/n1256.pdf#page=198)) support for [**math.h** functions](https://www.open-std.org/JTC1/SC22/WG14/www/docs/n1256.pdf#page=224)
+* publish **math.h** [**C-Validation Suite results**](https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh)
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Intel_C8087.jpg" width="800" >](https://upload.wikimedia.org/wikipedia/commons/a/aa/Intel_8087_die.JPG)<br><br>
 [![IEEEx87](https://github.com/KilianKegel/pictures/blob/master/IEEEMilestone.png)](https://math.berkeley.edu/news/congratulations-professor-william-velvel-kahan)
 
@@ -40,7 +44,7 @@ The **80387** processor has various improvements over its **8087** predecessor, 
 
 That has reduced the programming effort dramatically and made algorithms very simple and easy to implement.<br>
 
-## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50"> [*toro C Library* *source code*](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI)<br> builds with [LLVM/CLANG tool chain](https://llvm.org/) in Visual Studio 2022
+## [*toro C Library* *source code*](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI)<br> builds with [LLVM/CLANG tool chain](https://llvm.org/) in Visual Studio 2022
 [<img src="https://llvm.org/img/LLVMWyvernSmall.png">](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI/tree/main?tab=readme-ov-file#torosrc)
 
 # About
