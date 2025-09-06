@@ -18,7 +18,7 @@ https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh
 ***The 8087 would not have been possible without the clear insight and strong guidance offerred by <u>Prof. W. Kahan</u> at UC Berkeley.***
 
 ***We did not do as well as he wanted, but we did better than he expected.***
-<sup>[[0]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_001.jpg)</sup>
+<sup>[[0]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/COVERfront.jpeg)</sup>
 <sup>[[1]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_005.jpg)</sup>
 <sup>[[2]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_006.jpg)</sup>
 
