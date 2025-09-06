@@ -13,6 +13,11 @@ https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Intel_C8087.jpg" width="800" >](https://upload.wikimedia.org/wikipedia/commons/a/aa/Intel_8087_die.JPG)<br><br>
 [![IEEEx87](https://github.com/KilianKegel/pictures/blob/master/IEEEMilestone.png)](https://math.berkeley.edu/news/congratulations-professor-william-velvel-kahan)
 
+***Credit must be given to those people who played key roles in the develop
+ment of the 8087. The 8087 would not have been possible without the clear 
+insight and strong guidance offerred by Prof. W. Kahan at DC Berkeley. 
+We did not do as well as he wanted, but we did better than he expected.***<sup>[[1]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_005.jpg)</sup>
+
 <br>The [**8087**](https://en.wikipedia.org/wiki/X87#8087) successor [**80387**](https://en.wikipedia.org/wiki/X87#80387) is fully [**IEEE 754**](https://en.wikipedia.org/wiki/IEEE_754-1985) compliant.<br>
 
 The Math-Coprocessor is the foundation of this math library, providing a space-optimized, 
