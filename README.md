@@ -17,6 +17,7 @@ https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh
 ment of the 8087. The 8087 would not have been possible without the clear 
 insight and strong guidance offerred by Prof. W. Kahan at DC Berkeley. 
 We did not do as well as he wanted, but we did better than he expected.***<sup>[[1]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_005.jpg)</sup>
+<sup>[[2]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_006.jpg)</sup>
 
 <br>The [**8087**](https://en.wikipedia.org/wiki/X87#8087) successor [**80387**](https://en.wikipedia.org/wiki/X87#80387) is fully [**IEEE 754**](https://en.wikipedia.org/wiki/IEEE_754-1985) compliant.<br>
 
