@@ -13,11 +13,9 @@ https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Intel_C8087.jpg" width="800" >](https://upload.wikimedia.org/wikipedia/commons/a/aa/Intel_8087_die.JPG)<br><br>
 [![IEEEx87](https://github.com/KilianKegel/pictures/blob/master/IEEEMilestone.png)](https://math.berkeley.edu/news/congratulations-professor-william-velvel-kahan)
 
-***Credit must be given to those people who played key roles in the development of the 8087.***
-
-***The 8087 would not have been possible without the clear insight and strong guidance offerred by <u>Prof. W. Kahan</u> at UC Berkeley.***
-
-***We did not do as well as he wanted, but we did better than he expected.***
+***"Credit must be given to those people who played key roles in the development of the 8087.<br>
+The 8087 would not have been possible without the clear insight and strong guidance offerred by <u>Prof. W. Kahan</u> at UC Berkeley.<br>
+We did not do as well as he wanted, but we did better than he expected."***
 <sup>[[0]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/COVERfront.jpeg)</sup>
 <sup>[[1]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_005.jpg)</sup>
 <sup>[[2]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_006.jpg)</sup>
