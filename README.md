@@ -14,7 +14,7 @@ https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh
 [![IEEEx87](https://github.com/KilianKegel/pictures/blob/master/IEEEMilestone.png)](https://math.berkeley.edu/news/congratulations-professor-william-velvel-kahan)
 
 ***"Credit must be given to those people who played key roles in the development of the 8087.<br>
-The 8087 would not have been possible without the clear insight and strong guidance offerred by <u>Prof. W. Kahan</u> at UC Berkeley.<br>
+The 8087 would not have been possible without the clear insight and strong guidance offerred by*** **Prof. W. Kahan** ***at UC Berkeley.<br>
 We did not do as well as he wanted, but we did better than he expected."***
 <sup>[[0]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/COVERfront.jpeg)</sup>
 <sup>[[1]](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_005.jpg)</sup>
