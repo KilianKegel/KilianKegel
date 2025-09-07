@@ -2,8 +2,7 @@
 # Latest NEWS
 ## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50">toroCVS (C-Validation-Suite) report ***math.h***
 All **C90/ANSI C** functions of **math.h** compared against original **Microsoft C Library** implementation:<br>
-[![](https://github.com/KilianKegel/toroCVSreport/blob/main/documents/toroCVS.png)]https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh
-
+[![](https://github.com/KilianKegel/toroCVSreport/blob/main/documents/toroCVS.png)](https://github.com/KilianKegel/toroCVSreport?tab=readme-ov-file#mathh)
 
 ## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"  width="50" height="50">[*toro C Library*](https://github.com/KilianKegel/toro-C-Library) with [high precision, micro footprint hardware arithmetic](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI/tree/main/toroCLibrary/Library/math_h) 
 ### 20250830, v0.9.5 Build 755
