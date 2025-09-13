@@ -115,6 +115,7 @@ It is a new, independent implementation of the [ANSI C89 / ISO C90+C95 Standard 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=papers-bugs-miscellaneous-...-#cdepkg-blog-at--uefi--tianocore)](https://github.com/KilianKegel/papers-bugs-miscellaneous-...-#cdepkg-blog-at--uefi--tianocore)
 
 ### keywords
-<h6>ANSI C for UEFI, ISO C for UEFI, ANSI C UEFI, ISO C UEFI, Standard C for UEFI, UEFI LIBC, EFI LIBC, LIBC UEFI , LIBC EFI , UEFI application, UEFI driver, Visual Studio UEFI, Visual Studio 2022 UEFI, UEFI Standard C Library, Standard C Library UEFI,Standard LIBC UEFI, C LIB UEFI, C LIBRARY UEFI, UEFI C, C UEFI, UEFI C Library, LIBC UEFI<br>👺 SCLIBnot Standard C LIBrary neat odd thing
+<h6>ANSI C for UEFI, ISO C for UEFI, ANSI C UEFI, ISO C UEFI, Standard C for UEFI, UEFI LIBC, EFI LIBC, LIBC UEFI , LIBC EFI , UEFI application, UEFI driver, Visual Studio UEFI, Visual Studio 2022 UEFI, UEFI Standard C Library, Standard C Library UEFI,Standard LIBC UEFI, C LIB UEFI, C LIBRARY UEFI, UEFI C, C UEFI, UEFI C Library, LIBC UEFI, programming uefi, uefi programming,
+ UEFI, programming efi, efi programming, uefi app, app uefi, efi app, app efi, <br>👺 SCLIBnot Standard C LIBrary neat odd thing
 <br>
 <br>   
