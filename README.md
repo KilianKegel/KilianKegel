@@ -1,4 +1,6 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KilianKegel.kiliankegel)
+<img src="https://github.com/KilianKegel/pictures/blob/master/VS2026.png"  width="250" height="250"><br>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KilianKegel.kiliankegel)
+
+
 # Latest NEWS
 ## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50">toroCVS (C-Validation-Suite) report ***math.h***
 All **C90/ANSI C** functions of **math.h** compared against original **Microsoft C Library** implementation:<br>
