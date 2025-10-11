@@ -1,8 +1,9 @@
-<img src="https://github.com/KilianKegel/pictures/blob/master/baustelle.png"  width="150" height="150"><img src="https://github.com/KilianKegel/pictures/blob/master/VS2026.png"  width="250" height="250"><br>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KilianKegel.kiliankegel)
+<img src="https://github.com/KilianKegel/pictures/blob/master/baustelle.png"  width="150" height="150"><img src="https://github.com/KilianKegel/pictures/blob/master/VS2026.png"  width="250" height="250"><img src="https://github.com/KilianKegel/pictures/blob/master/baustelle.png"  width="150" height="150">
+<br>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KilianKegel.kiliankegel)
 
 
 # Latest NEWS
-## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"   height="50">[<img src="https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE/blob/main/LOGO.PNG" height="100">](https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE?tab=readme-ov-file#visual-acpica-for-uefi-shell)
+## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"   height="50">[<img src="https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE/blob/main/LOGOWin64.PNG" height="200">](https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE?tab=readme-ov-file#visual-acpica-for-uefi-shell)
 ### enable Windows 64 full DEBUG support (including [**toro C Library** source code](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI?tab=readme-ov-file#toro-c-library-sourcecode))
 
 ## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50">toroCVS (C-Validation-Suite) report ***math.h***
