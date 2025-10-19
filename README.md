@@ -4,7 +4,7 @@
 
 # Latest NEWS
 
-## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50">EDK2.EMU 64Bit + 32Bit + EDK2 StdLibc + toro C Library
+## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50">EDK2 Emulator 64Bit + 32Bit + EDK2 StdLibc + toro C Library
 [![](https://github.com/KilianKegel/EDK2-EMU/blob/main/media/screenshot.png)](https://github.com/KilianKegel/EDK2-EMU)
 
 ## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"   height="50">[<img src="https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE/blob/main/LOGOWin64.PNG" height="200">](https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE?tab=readme-ov-file#visual-acpica-for-uefi-shell)
