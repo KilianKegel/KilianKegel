@@ -94,15 +94,16 @@ It is a new, independent implementation of the [ANSI C89 / ISO C90+C95 Standard 
 |[**EDK2 Emulator**](https://github.com/KilianKegel/EDK2-EMU)|Get started with the original **TianoCore UEFI/BIOS Framework** in the Windows Emulator.<br><br>Understand UEFI software, configuration and build architecture from the ground up.<br><img src="https://github.com/KilianKegel/EDK2-EMU/blob/main/media/screenshot.png"  width="256" height="144"><br>|
 
 ## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"  width="48" height="48">HOWTO
+| HOWTO|
+|--------------|
+|[**Howto setup a UEFI-Development-PC**](https://github.com/KilianKegel/Howto-setup-an-UEFI-Development-PC#howto-setup-a-uefi-development-pc)|
+|[**Howto create a UEFI-Shell-Boot-Drive**](https://github.com/MinnowWare/Howto-create-a-UEFI-Shell-Boot-Drive#howto-create-a-uefi-shell-boot-device)|
+|[**Howto configure VS2022 to build .EFIexecutables**](https://github.com/KilianKegel/Howto-configure-VS2022-to-build-.EFI-executables#howto-configure-vs2022-to-build-efi-executables)
+|[**Howto-configure-DDK-and-WDK-for-Standard-C-usage**](https://github.com/KilianKegel/Howto-configure-DDK-and-WDK-for-Standard-C-usage) |
+|[**[obsolete] Howto-setup-a-YOCTO-Development-PC**](https://github.com/KilianKegel/Howto-setup-a-YOCTO-Development-PC)|
+|[**git-for-gits**](https://github.com/KilianKegel/git-for-gits)|
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-setup-a-UEFI-Development-PC)](https://github.com/KilianKegel/Howto-setup-an-UEFI-Development-PC#howto-setup-a-uefi-development-pc)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-create-a-UEFI-Shell-Boot-Drive)](https://github.com/MinnowWare/Howto-create-a-UEFI-Shell-Boot-Drive#howto-create-a-uefi-shell-boot-device)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-configure-VS2022-to-build-.EFI-executables#howto-configure-vs2022-to-build-efi-executables)](https://github.com/KilianKegel/Howto-configure-VS2022-to-build-.EFI-executables#howto-configure-vs2022-to-build-efi-executables) [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=git-for-gits)](https://github.com/KilianKegel/git-for-gits)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-configure-DDK-and-WDK-for-Standard-C-usage)](https://github.com/KilianKegel/Howto-configure-DDK-and-WDK-for-Standard-C-usage) 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-setup-a-YOCTO-Development-PC)](https://github.com/KilianKegel/Howto-setup-a-YOCTO-Development-PC)
-
+<!--
 ## Projects
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=toro-C-Library#toro-c-library-formerly-known-as-torito-c-library)](https://github.com/KilianKegel/toro-C-Library#toro-c-library-formerly-known-as-torito-c-library)
@@ -124,7 +125,7 @@ It is a new, independent implementation of the [ANSI C89 / ISO C90+C95 Standard 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Howto-configure-DDK-and-WDK-for-Standard-C-usage)](https://github.com/KilianKegel/Howto-configure-DDK-and-WDK-for-Standard-C-usage) 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=-obsolete-Howto-setup-a-YOCTO-Development-PC)](https://github.com/KilianKegel/-obsolete-Howto-setup-a-YOCTO-Development-PC)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=papers-bugs-miscellaneous-...-#cdepkg-blog-at--uefi--tianocore)](https://github.com/KilianKegel/papers-bugs-miscellaneous-...-#cdepkg-blog-at--uefi--tianocore)
-
+-->
 ### keywords
 <h6>ANSI C for UEFI, ISO C for UEFI, ANSI C UEFI, ISO C UEFI, Standard C for UEFI, UEFI LIBC, EFI LIBC, LIBC UEFI , LIBC EFI , UEFI application, UEFI driver, Visual Studio UEFI, Visual Studio 2022 UEFI, UEFI Standard C Library, Standard C Library UEFI,Standard LIBC UEFI, C LIB UEFI, C LIBRARY UEFI, UEFI C, C UEFI, UEFI C Library, LIBC UEFI, programming uefi, uefi programming,
  UEFI, programming efi, efi programming, uefi app, app uefi, efi app, app efi, <br>👺 SCLIBnot Standard C LIBrary neat odd thing
