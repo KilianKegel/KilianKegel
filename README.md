@@ -68,7 +68,7 @@ That has reduced the programming effort dramatically and made algorithms very si
 
 # About
 **The content on this page is all about developing of <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="20" height="20"> UEFI  applications
-and drivers using Microsoft <img src="https://github.com/KilianKegel/pictures/blob/master/vs-icon.svg"  width="20" height="20"> Visual Studio 2022 for x86 platforms.**
+and drivers using Microsoft <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp"  width="20" height="20"> Visual Studio 2026 for x86 platforms.**
 
 **The [*toro C Library*](https://github.com/KilianKegel/toro-C-Library) introduced here is written independently of any other source code.<br>
 It is a new, independent implementation of the [ANSI C89 / ISO C90+C95 Standard C Library](https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub160.pdf).<br>
