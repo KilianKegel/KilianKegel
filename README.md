@@ -1,4 +1,7 @@
-<img src="https://github.com/KilianKegel/pictures/blob/master/baustelle.png"  width="50" height="50"><img src="https://github.com/KilianKegel/pictures/blob/master/VS2026.png"  width="125" height="125"><img src="https://github.com/KilianKegel/pictures/blob/master/baustelle.png"  width="50" height="50">
+<p align="center">
+ <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp"  width="300" height="300">
+</p>
+
 <br>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KilianKegel.kiliankegel)
 
 
