@@ -1,6 +1,26 @@
 <p align="center">
  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp"  width="300" height="300">
+ <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="300" height="300">
 </p>
+
+# About
+**The content on this page is all about developing of <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="20" height="20"> UEFI  applications
+and drivers using Microsoft <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp"  width="20" height="20"> Visual Studio 2026 for x86 platforms.**
+
+## Intellectual Property Notice
+**The [*toro C Library*](https://github.com/KilianKegel/toro-C-Library) introduced here is written by myself only independently of any other source code and without any other contribution.**<br>
+The **toro C Library** and all associated materials are original works authored solely by Kilian Kegel, unless otherwise stated.<br> All copyrights and other intellectual property rights are owned by Kilian Kegel.<br>
+
+## License notice [**toro C Library** *binary*](https://github.com/KilianKegel/toro-C-Library)
+[**toro C Library** binary](https://github.com/KilianKegel/toro-C-Library) is free to use like the [**GLIBC runtime library**](https://www.gnu.org/licenses/gcc-exception-3.1-faq.html)
+
+**Developers are free to use [**toro C Library** binary](https://github.com/KilianKegel/toro-C-Library) to compile any program, regardless of its [license](https://github.com/KilianKegel/toro-C-Library/blob/master/LICENSE.md)**.
+
+## License notice [**toro C Library** *source code*](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI)
+```
+    Copyright (c) 2017-2025, Kilian Kegel. All rights reserved.
+    SPDX-License-Identifier: GNU General Public License v3.0
+```
 
 <br>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KilianKegel.kiliankegel)
 
@@ -66,24 +86,6 @@ That has reduced the programming effort dramatically and made algorithms very si
 ## [*toro C Library* *source code*](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI)<br> builds with [LLVM/CLANG tool chain](https://llvm.org/) in Visual Studio 2026
 [<img src="https://llvm.org/img/LLVMWyvernSmall.png">](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI/tree/main?tab=readme-ov-file#torosrc)
 
-# About
-**The content on this page is all about developing of <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="20" height="20"> UEFI  applications
-and drivers using Microsoft <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp"  width="20" height="20"> Visual Studio 2026 for x86 platforms.**
-
-**The [*toro C Library*](https://github.com/KilianKegel/toro-C-Library) introduced here is written independently of any other source code.<br>
-It is a new, independent implementation of the [ANSI C89 / ISO C90+C95 Standard C Library](https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub160.pdf).<br>
-([Only floating point print/scan-support is currently missing](https://github.com/KilianKegel/toro-C-Library?tab=readme-ov-file#known-bugs) — Instead [MATH.H](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI?tab=readme-ov-file#20250309-v090-build-243) functions are available !!!)**
-
-### License [**toro C Library** *binary*](https://github.com/KilianKegel/toro-C-Library)
-[**toro C Library** binary](https://github.com/KilianKegel/toro-C-Library) is free to use like the [**GLIBC runtime library**](https://www.gnu.org/licenses/gcc-exception-3.1-faq.html)
-
-**Developers are free to use [**toro C Library** binary](https://github.com/KilianKegel/toro-C-Library) to compile any program, regardless of its [license](https://github.com/KilianKegel/toro-C-Library/blob/master/LICENSE.md)**.
-
-### License [**toro C Library** *source code*](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI)
-```
-    Copyright (c) 2017-2025, Kilian Kegel. All rights reserved.
-    SPDX-License-Identifier: GNU General Public License v3.0
-```
 
 # Flagship Projects based on [**toro C Library**](https://github.com/KilianKegel/toro-C-Library)
 | Flagship Project | Content|
