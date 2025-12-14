@@ -1,6 +1,6 @@
 <p align="center">
- <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp"  width="300" height="300">
- <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="300" height="300">
+ <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp"  width="100" height="100">
+ <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="100" height="100">
 </p>
 
 # About
