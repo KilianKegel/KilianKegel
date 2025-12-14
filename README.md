@@ -27,11 +27,13 @@ The **toro C Library** and all associated materials are original works authored 
 
 # Latest NEWS
 
+## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"   height="50">[<img src="https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE/blob/main/LOGOWin64.PNG" height="200">](https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE?tab=readme-ov-file#visual-acpica-for-uefi-shell)
+* update to latest available [**ACPICA drop 20251212**](https://github.com/acpica/acpica/)
+* Enable Windows 64 full DEBUG support (including [**toro C Library** source code](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI?tab=readme-ov-file#toro-c-library-sourcecode))
+
 ## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50">EDK2 Emulator 64Bit + 32Bit + EDK2 StdLibc + toro C Library
 [![](https://github.com/KilianKegel/EDK2-EMU/blob/main/media/screenshot.png)](https://github.com/KilianKegel/EDK2-EMU)
 
-## <img src="https://github.com/KilianKegel/pictures/blob/master/refresh-icon.png"   height="50">[<img src="https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE/blob/main/LOGOWin64.PNG" height="200">](https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-ShellPORTABLE?tab=readme-ov-file#visual-acpica-for-uefi-shell)
-### enable Windows 64 full DEBUG support (including [**toro C Library** source code](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI?tab=readme-ov-file#toro-c-library-sourcecode))
 
 ## <img src="https://github.com/KilianKegel/pictures/blob/master/New-icon.png"  width="50" height="50">toroCVS (C-Validation-Suite) report ***math.h***
 All **C90/ANSI C** functions of **math.h** compared against original **Microsoft C Library** implementation:<br>
