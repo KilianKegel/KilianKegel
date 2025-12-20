@@ -3,11 +3,16 @@
  <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="100" height="100">
 </p>
 
-|Acronym| IPA|
-|-|-|
-|UEFI|/ˈjuːɪfaɪ/|
-|UEFI Shell|/ˈjuːɪfaɪ ʃɛl/|
+<p align="center">
+ 
+|Acronym| IPA|Meaning|
+|-|-|-|
+|**UEFI**        |`/ˈjuːɪfaɪ/`|Unified Extensible Firmware Interface|
+|**UEFI Shell**  |`/ˈjuːɪfaɪ ʃɛl/`|Unified Extensible Firmware Interface command line interpreter|
+|**CdePkg**  |`/siː-diː-iː ˈpækɪʤ/`|C Development Package|
+|**toro C Library**|`/ˈtɔroʊ siː ˈlaɪˌbrɛri/`| toro C library|
 
+</p> 
 
 # About
 **The content on this page is all about developing of <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="20" height="20"> UEFI  applications
