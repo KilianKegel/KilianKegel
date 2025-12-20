@@ -10,7 +10,7 @@
 |**UEFI**        |`/ˈjuːɪfaɪ/`|Unified Extensible Firmware Interface|
 |**UEFI Shell**  |`/ˈjuːɪfaɪ ʃɛl/`|Unified Extensible Firmware Interface command line interpreter|
 |**CdePkg**  |`/siː-diː-iː ˈpækɪʤ/`|C Development Package|
-|**toro C Library**|`/ˈtɔroʊ siː ˈlaɪˌbrɛri/`| toro C library|
+|**toro C Library**|`/ˈtɔroʊ siː ˈlaibrəri/`| toro C library|
 
 </p> 
 
