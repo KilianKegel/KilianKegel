@@ -7,10 +7,11 @@
  
 |Acronym| IPA|Meaning|
 |-|-|-|
+|**ACPI**| `/ˌeɪ.si.pi.ˈaɪ/`|Advanced Configuration and Power Interface|
 |**UEFI**        |`/ˈjuːɪfaɪ/`|Unified Extensible Firmware Interface|
 |**UEFI Shell**  |`/ˈjuːɪfaɪ ʃɛl/`|Unified Extensible Firmware Interface command line interpreter|
 |**CdePkg**  |`/siː-diː-iː ˈpækɪʤ/`|C Development Package|
-|**toro C Library**|`/ˈtɔroʊ siː ˈlaibrəri/`| toro C library|
+|**toro C Library**|`/ˈtɔroʊ siː ˈlaɪ.brɛr.i/`| toro C library|
 
 </p> 
 
