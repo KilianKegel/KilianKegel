@@ -3,6 +3,12 @@
  <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="100" height="100">
 </p>
 
+|Acronym| IPA|
+|-|-|
+|UEFI|/ˈjuːɪfaɪ/|
+|UEFI Shell|/ˈjuːɪfaɪ ʃɛl/|
+
+
 # About
 **The content on this page is all about developing of <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="20" height="20"> UEFI  applications
 and drivers using Microsoft <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp"  width="20" height="20"> Visual Studio 2026 for x86 platforms.**
