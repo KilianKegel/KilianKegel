@@ -8,9 +8,10 @@
 |Acronym| IPA|Meaning|
 |-|-|-|
 |**ACPI**| `/ˌeɪ.si.pi.ˈaɪ/`|Advanced Configuration and Power Interface|
+|**ACPICA**| `/ˌeɪ.si.pi.ˈaɪ.siˌeɪ/`|Advanced Configuration and Power Interface Component Architecture|
 |**UEFI**        |`/ˈjuːɪfaɪ/`|Unified Extensible Firmware Interface|
 |**UEFI Shell**  |`/ˈjuːɪfaɪ ʃɛl/`|Unified Extensible Firmware Interface command line interpreter|
-|**CdePkg**  |`/siː-diː-iː ˈpækɪʤ/`|C Development Package|
+|**CdePkg**  |`/siː-diː-iː ˈpækɪʤ/`|C Development Environment Package|
 |**toro C Library**|`/ˈtɔroʊ siː ˈlaɪ.brɛr.i/`| toro C library|
 
 </p> 
