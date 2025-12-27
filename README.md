@@ -5,13 +5,15 @@
 
 <p align="center">
  
-|Acronym| IPA|Meaning|
+|Acronym| pronunciation<br>IPA|Meaning|
 |-|-|-|
-|**ACPI**| `/ˌeɪ.si.pi.ˈaɪ/`|Advanced Configuration and Power Interface|
-|**ACPICA**| `/ˌeɪ.si.pi.ˈaɪ.siˌeɪ/`|Advanced Configuration and Power Interface Component Architecture|
-|**UEFI**        |`/ˈjuːɪfaɪ/`|Unified Extensible Firmware Interface|
-|**UEFI Shell**  |`/ˈjuːɪfaɪ ʃɛl/`|Unified Extensible Firmware Interface command line interpreter|
-|**CdePkg**  |`/siː-diː-iː ˈpækɪʤ/`|C Development Environment Package|
+|**ACPI**| A-C-P-I<br>`/ˌeɪ.si.pi.ˈaɪ/`|[Advanced Configuration and Power Interface](https://en.wikipedia.org/wiki/ACPI)|
+|**ACPICA**| A-C-P-I-C-A<br>`/ˌeɪ.si.pi.ˈaɪ.siˌeɪ/`|[Advanced Configuration and Power Interface Component Architecture](https://www.intel.com/content/www/us/en/developer/topic-technology/open/acpica/overview.html)|
+|**UEFI**        |U-E-F-I<br>`/ˈjuːɪfaɪ/`|[Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/UEFI)|
+|**UEFI Shell**  |U-E-F-I Shell<br>`/ˈjuːɪfaɪ ʃɛl/`|[Unified Extensible Firmware Interface command line interpreter](https://en.wikipedia.org/wiki/UEFI#SHELL)|
+|**CdePkg**  |C-D-E-Package<br>`/siː-diː-iː ˈpækɪʤ/`|[C Development Environment Package](https://github.com/KilianKegel/CdePkg)|
+|**CdeLib**  |C-D-E-Lib<br>`/siː-diː-iː lɪb/`|[C Development Environment Library](https://github.com/KilianKegel/CdePkg)|
+|**CdeServices**  |C-D-E Services<br>`/siː-diː-iː ˈsɜrvəsəz/`|[C Development Environment Services](https://github.com/KilianKegel/CdePkg?tab=readme-ov-file#implementation)|
 |**toro C Library**|`/ˈtɔroʊ siː ˈlaɪ.brɛr.i/`| toro C library|
 
 </p> 
