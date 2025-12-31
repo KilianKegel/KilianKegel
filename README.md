@@ -7,9 +7,9 @@
  
 |Acronym| pronunciation<br>IPA|Meaning|
 |-|-|-|
-|**ACPI**| A-C-P-I<br>`/ˌeɪ.si.pi.ˈaɪ/`|[Advanced Configuration and Power Interface](https://en.wikipedia.org/wiki/ACPI)|
+|**ACPI**| A-C-P-I<br>`/ˌeɪ.si.pi.ˈaɪ/`|[Advanced Configuration and Power Interface](https://en.wikipedia.org/wiki/ACPI)<br>[ACPI specification](https://uefi.org/sites/default/files/resources/ACPI_Spec_6.6.pdf)|
 |**ACPICA**| A-C-P-I-C-A<br>`/ˌeɪ.si.pi.ˈaɪ.siˌeɪ/`|[Advanced Configuration and Power Interface Component Architecture](https://www.intel.com/content/www/us/en/developer/topic-technology/open/acpica/overview.html)|
-|**UEFI**        |U-E-F-I<br>`/ˈjuːɪfaɪ/`|[Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/UEFI)|
+|**UEFI**        |U-E-F-I<br>`/ˈjuːɪfaɪ/`|[Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/UEFI)<br>[UEFI Specification](https://uefi.org/sites/default/files/resources/UEFI_Spec_Final_2.11.pdf)|
 |**UEFI Shell**  |U-E-F-I Shell<br>`/ˈjuːɪfaɪ ʃɛl/`|[Unified Extensible Firmware Interface command line interpreter](https://en.wikipedia.org/wiki/UEFI#SHELL)|
 |**CdePkg**  |C-D-E-Package<br>`/siː-diː-iː ˈpækɪʤ/`|[C Development Environment Package](https://github.com/KilianKegel/CdePkg)|
 |**CdeLib**  |C-D-E-Lib<br>`/siː-diː-iː lɪb/`|[C Development Environment Library](https://github.com/KilianKegel/CdePkg)|
